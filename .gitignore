@@ -1,0 +1,4 @@
+.dynamodb
+.serverless
+.serverless-offline
+target
